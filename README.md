@@ -1,5 +1,7 @@
 # fuzz-corpus
 
+https://github.com/asarubbo/poc
+
 https://github.com/bestshow/p0cs
 
 https://github.com/TeamSeri0us/pocs
