@@ -1,5 +1,7 @@
 # fuzz-corpus
 
+https://github.com/bestshow/p0cs
+
 https://github.com/TeamSeri0us/pocs
 
 https://github.com/dvyukov/go-fuzz-corpus
