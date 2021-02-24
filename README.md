@@ -12,6 +12,8 @@ https://github.com/dvyukov/go-fuzz-corpus
 
 https://github.com/MozillaSecurity/fuzzdata
 
+https://github.com/ChijinZ/security_advisories
+
 https://github.com/strongcourage/fuzzing-corpus
 
 https://github.com/Hack-Me/Pocs_for_Multi_Versions
