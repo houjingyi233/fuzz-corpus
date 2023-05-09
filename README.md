@@ -19,3 +19,5 @@ https://github.com/ChijinZ/security_advisories
 https://github.com/strongcourage/fuzzing-corpus
 
 https://github.com/Hack-Me/Pocs_for_Multi_Versions
+
+https://github.com/mozilla/pdf.js/tree/master/test/pdfs
